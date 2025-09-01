@@ -119,20 +119,14 @@ Feel free to contribute by:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ## 👨‍💻 Author
 
-**Aadityaamlan Panda** 🎓  
+**Adarsh Pal** 🎓  
 B Tech, Chemical Engineering  
 Indian Institute of Technology, Kanpur, India 🇮🇳
 
-***
 
-**⭐ Star this repo if you find it helpful!**
-
-## 🏷️ Keywords
-
-`distillation` `chemical-engineering` `matlab` `mccabe-thiele` `vapor-liquid-equilibrium` `process-design` `separation` `mass-transfer`﻿# McCabe-Thiele
 
 
